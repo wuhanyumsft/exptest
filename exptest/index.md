@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-author: "Simon"
+author: "Simon Wu"
 experimental: true
 experiment_id: "be235fd7-5401-4b"
 ---
