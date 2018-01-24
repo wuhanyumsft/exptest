@@ -1,0 +1,7 @@
+metadata:
+  experimental: false
+  experiment_id: "show-exp-page"
+items:
+  - name: Treatment
+    href: index.md
+    displayName: Treatment
