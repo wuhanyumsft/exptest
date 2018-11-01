@@ -2,7 +2,7 @@
 title: "Hello World"
 author: "Simon Wu"
 experimental: true
-experiment_id: "testClientId"
+experiment_id: "azure-apex-test-flight"
 ---
 # Welcome to exptest!
 Hello World!
