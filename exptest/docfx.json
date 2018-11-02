@@ -13,16 +13,15 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices",
-          "exptest/moniker.md",
-          "exptest/moniker.experimental.md"
+          "moniker.md",
+          "moniker.experimental.md"
         ]
       },
       {
         "group": "siw-2017",
-        "src": "./",
         "files": [
-          "exptest/moniker.md",
-          "exptest/moniker.experimental.md"
+          "moniker.md",
+          "moniker.experimental.md"
         ],
         "exclude": [
         ]
