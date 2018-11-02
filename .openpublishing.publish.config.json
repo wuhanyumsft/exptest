@@ -8,6 +8,7 @@
       "build_output_subfolder": "exptest",
       "locale": "en-us",
       "monikers": [],
+      "moniker_ranges": [">= siw-2017"],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
