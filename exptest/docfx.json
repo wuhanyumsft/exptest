@@ -4,7 +4,7 @@
       {
         "files": [
           "**/*.md",
-		  "**/*.yml"
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -12,7 +12,19 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "exptest/moniker.md",
+          "exptest/moniker.experimental.md"
+        ]
+      },
+      {
+        "group": "siw-2017",
+        "src": "./",
+        "files": [
+          "exptest/moniker.md",
+          "exptest/moniker.experimental.md"
+        ],
+        "exclude": [
         ]
       }
     ],
@@ -33,6 +45,12 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "exptest"
+    "dest": "exptest",
+    "groups": {
+      "siw-2017": {
+        "moniker_range": ">= siw-2017"
+      }
+    },
+
   }
 }
